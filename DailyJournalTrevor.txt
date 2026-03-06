@@ -35,6 +35,9 @@ Hi, this is my daily journal for my final engineering project.
 1/27-1/28 - On these days, me and Jaden worked on the electronics for our fan. We found a chip that we can use and have soldered on pieces and done research and coding.
 1/29 - Today we shifted gears on our project revamping the fan design, I worked on making a base for the fan electronics as well.
 1/30 - 2/20 - This time period was spent coding and wiring our motor. The main issues we had was with the wiring, I could not find a configuration that would spin the motor. I learned a lot about troubleshooting and electronics in order to get the motor to work.
+2/23 - 2/27 - This week was spent troubleshooting any issues that we had with our fan. I designed a new fan base that can house all of the electrical components and we designed a new fan pole that can house wires and a motor better.
+3/2 - 3/4 - This week was spent making the final touches on our project. I finished 3-D printing all of the parts and testing all of the pieces. I had to stay after school on these days to ensure the project was finished.
+
 
 
 
